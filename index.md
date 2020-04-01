@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+### Learning Journal
 
-You can use the [editor on GitHub](https://github.com/adamsmithgit/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## The Growth Mindset
+The Growth Mindset is a way of behaving in - and responding to challenges in - personally and collectively constructive ways. On reflection, I see connections with what psychologists refer to as positive (and negative) coping skills. The underlying premise is that we accomplish more, and we are happier when we embrace and persevere through challenges. The Growth Mindset requires us to be vulnerable order to view criticism as an opportunity to learn, and talented co-workers as colleagues and potential mentors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamsmithgit/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Three practical ways to remember to exercise the growth mindset:
+- When a problem seems intractable and frustration starts to set in, pause for a moment and mentally step back. Rather than doing more of what’s not working, consider other ways to approach the problem. Have others run into similarly issues? Should I do more research and then return to the issue?
+- Before responding to an email or Slack message that could be interpreted as a little aggressive, pause and give the writer the benefit of the doubt. Is he/she busy? Just trying to get to the point? Am I being defensive or lacking confidence? Respond in a way that is supportive and models collegiality. 
+- At the beginning of the day, have at least one task that you are determined to get done that day (no matter what else comes up). At the end of the day, ask yourself whether you are pleased with what you achieved. Were you able to accomplish tasks that are aligned with company and project goals? Where you able to do what was important as well as what was urgent?
