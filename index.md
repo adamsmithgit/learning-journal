@@ -1,8 +1,8 @@
 <nav>
   <ul class="ljmenu">
-    <li class="ljmenuitem">Learning Markdown</li>
-    <li class="ljmenuitem">MenuItem2</li>
-    <li class="ljmenuitem">MenuItem3</li>
+    <li class="ljmenuitem"><a href="learningmarkdown.md">Learning Markdown</a></li>
+    <li class="ljmenuitem"><a href="#">MenuItem2</a></li>
+    <li class="ljmenuitem"><a href="#">MenuItem3</a></li>
   </ul>
 </nav>
 
