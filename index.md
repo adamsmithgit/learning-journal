@@ -17,7 +17,7 @@ Three practical ways to remember to exercise the growth mindset:
 - At the beginning of the day, have at least one task that you are determined to get done that day (no matter what else comes up). At the end of the day, ask yourself whether you are pleased with what you achieved. Were you able to accomplish tasks that are aligned with company and project goals? Where you able to do what was important as well as what was urgent?
 
 <a href="https://adamsmithgit.github.io/learning-journal/">TOP</a>
-<hr />
+<hr class="ljhr" />
 
 <div id="learningmarkdown"></div>
 ### Learning Markdown ###
@@ -49,4 +49,4 @@ Which will be rendered by Markdown like this:
 </table>
 
 <a href="https://adamsmithgit.github.io/learning-journal/">TOP</a>
-<hr />
+<hr class="ljhr" />
