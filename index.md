@@ -20,6 +20,7 @@ Three practical ways to remember to exercise the growth mindset:
 <hr class="ljhr" />
 
 <div id="learningmarkdown"></div>
+
 ## Learning Markdown
 
 Markdown is a way to format plain text.
