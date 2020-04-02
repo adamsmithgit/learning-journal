@@ -1,4 +1,3 @@
-<div id="top"></div>
 <nav>
   <ul class="ljmenu">
     <li class="ljmenuitem"><a href="#learningmarkdown">Learning Markdown</a></li>
