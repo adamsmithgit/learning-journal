@@ -1,3 +1,11 @@
+<nav>
+  <ul class="ljmenu">
+    <li class="ljmenuitem">Learning Markdown</li>
+    <li class="ljmenuitem">MenuItem2</li>
+    <li class="ljmenuitem">MenuItem3</li>
+  </ul>
+</nav>
+
 ### Learning Journal
 
 ## The Growth Mindset
