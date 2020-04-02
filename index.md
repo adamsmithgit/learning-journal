@@ -17,7 +17,7 @@ Three practical ways to remember to exercise the growth mindset:
 - Before responding to an email or Slack message that could be interpreted as a little aggressive, pause and give the writer the benefit of the doubt. Is he/she busy? Just trying to get to the point? Am I being defensive or lacking confidence? Respond in a way that is supportive and models collegiality. 
 - At the beginning of the day, have at least one task that you are determined to get done that day (no matter what else comes up). At the end of the day, ask yourself whether you are pleased with what you achieved. Were you able to accomplish tasks that are aligned with company and project goals? Where you able to do what was important as well as what was urgent?
 
-<id="learningmarkdown">
+<div id="learningmarkdown"></div>
 ### Learning Markdown ###
 
 Markdown is a way to format plain text.
