@@ -19,7 +19,7 @@ Github has extended the core Markdown to support additional symbols. For example
 | Cow           |          $90  |         1 |      $90 |
 ```
 
-Which will render like this-
+Which will render like this:
 | Item          | Cost          | Quantity  | Total    |
 |:--------------|--------------:| ---------:|---------:|
 | Cat           |          $30  |         4 |     $120 |
@@ -28,7 +28,6 @@ Which will render like this-
 
 
 Markdown also supports HTML so the writer can write HTML in the markdown file like this:
-
 ```
 <table>
   <tr>
