@@ -28,7 +28,8 @@ Which will render like this:
 | Cow           |          $90  |         1 |      $90 |
 
 
-Markdown also supports HTML so the writer can write HTML in the markdown file like this:
+In addition to being a plain-text formatting syntax, Markdown is a text to HTML software tool. That is, the plain-text is beign converted to structurally valid HTML to be rendered by the browser. It makes sense then, that it also supports the direct entry of HTML. This is helpful in cases where the writer wants to format something that is not supported by Markdown. If we in a situation where only Markdown core was supported, we'd need to use HTML to format a table like this: 
+
 ```
 <table>
   <tr>
