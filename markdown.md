@@ -1,4 +1,4 @@
-[Introduction](README) • [The Growth Mindset](README/#growthmindset) • [Learning Markdown](markdown)
+[Introduction](index) • [The Growth Mindset](index/#growthmindset) • [Learning Markdown](#)
 
 ### Learning Markdown
 
