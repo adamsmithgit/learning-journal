@@ -1,4 +1,6 @@
-## Learning Markdown
+[Introduction](README) • [The Growth Mindset](README/#growthmindset) • [Learning Markdown](markdown)
+
+### Learning Markdown
 
 Markdown is a way to format plain text.
 
