@@ -13,7 +13,7 @@ Markdown supports a limited set of text formating options such as headings, list
 Github has extended the core Markdown to support additional symbols. For example Github Flavored Markdown (GFM) supports a table layout using colons. 
 ```
 | Item          | Cost          | Quantity  | Total    |
-|:--------------|--------------:| ---------:|---------:|
+|---------------|:-------------:| ---------:|---------:|
 | Cat           |          $30  |         4 |     $120 |
 | Dog           |          $40  |         2 |      $80 |
 | Cow           |          $90  |         1 |      $90 |
@@ -21,7 +21,7 @@ Github has extended the core Markdown to support additional symbols. For example
 
 Which will render like this:
 | Item          | Cost          | Quantity  | Total    |
-|:--------------|--------------:| ---------:|---------:|
+|---------------|:-------------:| ---------:|---------:|
 | Cat           |          $30  |         4 |     $120 |
 | Dog           |          $40  |         2 |      $80 |
 | Cow           |          $90  |         1 |      $90 |
@@ -36,7 +36,7 @@ Markdown also supports HTML so the writer can write HTML in the markdown file li
   </tr>
 </table>
 ```
-Which will be rendered by Markdown like this-
+Which will be rendered like this:
 <table>
   <tr>
     <td>Column 1</td>
