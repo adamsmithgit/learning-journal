@@ -1,5 +1,7 @@
 [The Growth Mindset](#growthmindset) • [Learning Markdown](#learningmarkdown) • [MenuItem3](#)
 
+![Profile Picture](https://avatars1.githubusercontent.com/u/63020278?s=460&u=b436d9ce8928f6db05a3242b02a9ff954d3e12dc&v=4)
+
 ### Introduction
 Hi. I am Adam Smith. I work at Washington Technology University in marketing. Before WTU, I was an educator which led me into product owner roles in education software.
 
