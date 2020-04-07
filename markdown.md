@@ -43,3 +43,6 @@ Which will be rendered by Markdown like this:
     <td>Column 1</td>
   </tr>
 </table>
+
+[TOP](markdown)
+<hr class="ljhr" />
