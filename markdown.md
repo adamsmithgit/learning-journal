@@ -1,6 +1,6 @@
 [Introduction](index) • [The Growth Mindset](index#growthmindset) • [Learning Markdown](#) • [The Coder's Computer](coderscomputer)
 
-### Learning Markdown
+## Learning Markdown
 
 Markdown is a way to format plain text.
 
