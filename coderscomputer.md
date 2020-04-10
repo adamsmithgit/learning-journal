@@ -21,6 +21,8 @@ Just as a GUI provides a graphical way to interact with a system, the command li
 
 The terminal allows the user to interact with the __shell__. When commands are typed into the terminal, the shell (part of the OS) interprets the commands so that the operating system can execute them to perform the appropriate functions. Shells include the Bourne shell, the Borne Again shell (BASH), the Korn shell, adn the POSIX shell.
 
+![Terminals](/images/terminal.png)
+
 Various __commands__ can be run in the terminal. Often they can include __command line arguments__ that define how the commend is run. For example ls lists the contents of the current directory, whereas ls /etc lists the contents of the specified etc directory.
 
 In linux, _everything is a file_, this includes the keyboard, the monitor, and the mouse. Linux is reading from and writing to files. Linux does not use file extensions to determine a file's type, rather it look into the file itself. 
