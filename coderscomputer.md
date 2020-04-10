@@ -1,6 +1,6 @@
 [Introduction](index) • [The Growth Mindset](index#growthmindset) • [Learning Markdown](markdown) • [The Coder's Computer](#)
 
-### Text Editors
+## Text Editors
 
 Web developers use text editors to write and manage text, including code. While operating systems typically provide basic text editors, third party options that provide the features above can make coding more efficient. Popular third party editors include Sublime, Notepad++, VS Code, Atom, Vim, and UltraEdit. Features that can make coding efficient and comfortable include:
 
