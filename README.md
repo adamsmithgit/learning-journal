@@ -1,4 +1,4 @@
-[Introduction](#introduction) • [The Growth Mindset](#growthmindset) • [Learning Markdown](markdown)
+[Introduction](#introduction) • [The Growth Mindset](#growthmindset) • [Learning Markdown](markdown) • [The Coder's Computer](coderscomputer)
 
 <div id="introduction"></div>
 
