@@ -28,3 +28,5 @@ Various __commands__ can be run in the terminal. Often they can include __comman
 In linux, _everything is a file_, this includes the keyboard, the monitor, and the mouse. Linux is reading from and writing to files. Linux does not use file extensions to determine a file's type, rather it look into the file itself. 
 
 Basic commands allow us to move up and down the directory tree relative to our current location, or to 'jump' to another location using an absolute path. In the directories we can list the files and sub-directories (__ls__), inspect files to see what type they are (__file__), discover our current location (__pwd__), as well as do things such as creating new files (__touch__).
+
+[TOP](coderscomputer)
