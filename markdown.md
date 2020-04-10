@@ -1,4 +1,4 @@
-[Introduction](index) • [The Growth Mindset](index#growthmindset) • [Learning Markdown](#)
+[Introduction](index) • [The Growth Mindset](index#growthmindset) • [Learning Markdown](#) • [The Coder's Computer](coderscomputer)
 
 ### Learning Markdown
 
