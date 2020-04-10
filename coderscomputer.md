@@ -21,7 +21,7 @@ Just as a GUI provides a graphical way to interact with a system, the command li
 
 The terminal allows the user to interact with the __shell__. When commands are typed into the terminal, the shell (part of the OS) interprets the commands so that the operating system can execute them to perform the appropriate functions. Shells include the Bourne shell, the Borne Again shell (BASH), the Korn shell, adn the POSIX shell.
 
-![Terminals](/images/terminal.png)
+<img class="lj-img01" href="/images/terminal.png">
 
 Various __commands__ can be run in the terminal. Often they can include __command line arguments__ that define how the commend is run. For example ls lists the contents of the current directory, whereas ls /etc lists the contents of the specified etc directory.
 
