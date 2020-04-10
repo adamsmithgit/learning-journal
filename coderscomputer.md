@@ -11,7 +11,7 @@ Web developers use text editors to write and manage text, including code. While 
 
 Selecting a text editor is a choice based on personal preferences. Programmers often use a text editor within a n Integrated Development Environment (IDE). The IDE includes the text editor along with other tools that support managing files, compiling code, debugging, and deployment.
 
-[TOP](index)
+[TOP](coderscomputer)
 <hr class="ljhr" />
 
 <div id="Terminal"></div>
