@@ -1,5 +1,5 @@
 ![Profile Picture](https://avatars1.githubusercontent.com/u/63020278?s=460&u=b436d9ce8928f6db05a3242b02a9ff954d3e12dc&v=4)
-### Introduction
+## Introduction
 Hi. I am Adam Smith. I work at Washington Technology University in marketing. Before WTU, I was an educator which led me into product owner roles in education software.
 
 I am using Windows 10. Here is a link to my [github profile](https://github.com/adamsmithgit).
@@ -8,7 +8,7 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 
 <hr class="ljhr" />
 
-## Table of Contents
+### Table of Contents
 
 [The Growth Mindset](growthmindset)
 
