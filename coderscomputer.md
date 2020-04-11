@@ -1,4 +1,4 @@
-[Home - Table of Contents](README)
+[Home - Table of Contents](index)
 
 ## The Coder's Computer
 
