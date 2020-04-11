@@ -4,7 +4,7 @@ Hi. I am Adam Smith. I work at Washington Technology University in marketing. Be
 
 I am using Windows 10. Here is a link to my [github profile](https://github.com/adamsmithgit).
 
-I'm excited to be joining the class as I love to learn new skills. I have been fortunate to have worked with talented developers in the past and am hoping to develop some of the attributes that made them great team players. I'm looking forward to learning with everyone here.
+I'm excited to be joining the class as I love to learn new skills. I have been fortunate to have worked at companies with talented developers and am hoping to develop some of the skills and attributes that made them great team players. I'm looking forward to learning with everyone here.
 
 <hr class="ljhr" />
 
