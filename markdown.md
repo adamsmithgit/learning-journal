@@ -1,4 +1,4 @@
-[Introduction](index) • [The Growth Mindset](index#growthmindset) • [Learning Markdown](#) • [The Coder's Computer](coderscomputer)
+[Home - Table of Contents](README)
 
 ## Learning Markdown
 
@@ -46,5 +46,4 @@ Which will be rendered like this:
   </tr>
 </table>
 
-[TOP](markdown)
 <hr class="ljhr" />
