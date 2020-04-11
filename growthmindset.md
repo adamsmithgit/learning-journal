@@ -1,4 +1,4 @@
-[Home - Table of Contents](README)
+[Home - Table of Contents](index)
 
 ## The Growth Mindset
 The Growth Mindset is a way of behaving in - and responding to challenges in - personally and collectively constructive ways. On reflection, I see connections with what psychologists refer to as positive (and negative) coping skills. The underlying premise is that we accomplish more, and we are happier when we embrace and persevere through challenges. The Growth Mindset requires us to be vulnerable order to view criticism as an opportunity to learn, and talented co-workers as colleagues and potential mentors.
