@@ -10,10 +10,13 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 
 ## Table of Contents
 
-[Home](README)
 [The Growth Mindset](growthmindset)
+
 [Learning Markdown](markdown)
+
 [The Coder's Computer](coderscomputer)
+
 [Git and GitHub](git)
+
 
 
