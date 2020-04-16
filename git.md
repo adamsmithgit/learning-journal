@@ -11,12 +11,12 @@ Each time a file is committed to the repository, Git creates a *Snapshot* and st
 
 To stage a file for the next commit:
 ```
-git add __filename__
+git add filename
 ```
 
 To commit the staged snapshot:
 ```
-git commit -m "__message__"
+git commit -m "message"
 ```
 
 To push changes from local repository to remote repository:
