@@ -18,5 +18,5 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 
 [Git and GitHub](git)
 
-
+[Structure Web Pages with HTML](structure)
 
