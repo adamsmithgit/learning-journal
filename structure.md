@@ -3,15 +3,13 @@
 ## Structure Web Pages with HTML
 
 ### Process and Design
-Whether it is company or product marketing site or a web application, design begins with clarifying the purpose of the site and if possible, how successful achievement of that purpose can be measured.
+Whether it is company or product marketing site or a web application, design begins with clarifying the purpose of the site and if possible, how successful achievement of that purpose can be measured. By establishing metrics up-front, you can test against those - with a real audience if possible - through the development process making adjustments as necessary.
 
-Company and product sites are usually one of set of customer touchpoints that should be designed to function symbiotically.
+Company and product sites are usually one of set of customer touchpoints that should be designed to function symbiotically. The website needs to perform some functions independently, but it is also integral to delivering on the overarching promise of the brand.
 
-Site design requires determining the intersection between the needs of your targetted users and your business objectives.
+Site design requires determining the intersection between the needs of your targeted users and your business objectives. Who is the site for? How will those targeted people get what they want from your site in a way that contributes to your business goals?
 
-Who is the site for? How will those targetted people get what they want from your site in a way that contributes to your business goals.
-
-What do those people want to get from the site? What does the busienss want? What is a fair exchange? How can information and features on the site be organized to make that exchange as frictionless as possible.
+What do those people want to get from the site? What does the business want? What is a fair exchange? How can information and features on the site be organized to make that exchange as frictionless as possible.
 
 Developing personas can help clarify the audience and inform site design, this includes the prioritization of information.
 
