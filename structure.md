@@ -26,7 +26,7 @@ This diagram shows the wireframe of the band website being translated into a HTM
 
 <img class="lj-img01" src="images/wireframe-500.png">
 
-Which looks like this in HTML:
+Which is defined like this in HTML (note - styling is required to achieve the visual layout indicated in the wireframe):
 
 ```
 <html>
