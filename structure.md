@@ -17,14 +17,14 @@ A wireframe can be used to map how that information is organized on the various 
 
 This is a wireframe for the homepage of a band website:
 
-<img class="lj-img01" src="images/layout-500.png">
+<img class="lj-img500" src="images/layout-500.png">
 
 ### HTML5 Layout
 For some time, div's have been used to structure HTML pages. HTML5 includes elements specifically to indicate stucture. For example, where previously a div with id="header" was used, the HTML element <header> may now be use. Other HTML structure elements include <article>, <aside>, and <footer>.
 
 This diagram shows the wireframe of the band website being translated into a HTML definition:
 
-<img class="lj-img01" src="images/wireframe-500.png">
+<img class="lj-img500" src="images/wireframe-500.png">
 
 Which is defined like this in HTML (note - styling is required to achieve the visual layout indicated in the wireframe):
 
