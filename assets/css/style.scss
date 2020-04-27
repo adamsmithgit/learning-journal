@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 #header_wrap {
   background: lightblue;
@@ -21,5 +18,11 @@ img {
 .lj-img01 {
   float: none;
   width: 734px; 
+  margin: 10px;
+}
+
+.lj-img500 {
+  float: none;
+  width: 500px; 
   margin: 10px;
 }
