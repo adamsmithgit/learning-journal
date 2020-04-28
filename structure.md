@@ -48,7 +48,7 @@ Which is defined like this in HTML (note - styling is required to achieve the vi
                     </ul>
                 </nav>
             </header>
-            <div id="main">
+            <main>
                 <div id="promo">
                     <img src="images/promo-photo.png">
                     <h2>Next Show Promo</h2>
@@ -72,7 +72,7 @@ Which is defined like this in HTML (note - styling is required to achieve the vi
                     <p>Selling Point</p>
                     <button>Booking Form</button>
                 </div><!--book-->
-            </div><!--main-->
+            </main>
             <footer>
                 <ul>
                     <li>Terms of Use</li>
