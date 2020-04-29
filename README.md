@@ -25,3 +25,5 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 [Dynamic Web Pages with JavaScript](dynamic)
 
 [How Computers Work](computers)
+
+[Programming with JavaScript](javascript)
