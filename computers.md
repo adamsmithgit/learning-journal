@@ -2,28 +2,28 @@
 
 ## How Computers Work
 
-###What Makes a Computer a Computer?
+### What Makes a Computer a Computer?
 Computers manipulate information.
 Computers Input, Store, Process, & Output
 Input: human interface analog signals, digital inputs
 Storage: store in memory -> sent to processor -> back to memory
 Output: display, directly control device, send to another computer
 
-###Binary & Data
+### Binary & Data
 Computers work in binary 1 & 0
 Signal can be electrica signal on or off, 1 or 0, true or false, this is a bit
 Using binary system, any number can be represented with base 2 places
 Text, images, and sound can be represented with numbers
 A pixel on a screen, a wave form, etc. can be represented by a number
 
-###Circuits and Logic
+### Circuits and Logic
 To process input into output, computers modify & combine the information
 This is done in components which together form circuits
 Simple circuits include Not, And, Or, Nor
 In combination more complex circuits are made
 Computer circuits have become smaller and faster, can perform billions of calculations per second
 
-###CPU, Memory, Input & Output
+### CPU, Memory, Input & Output
 Input devices take physical often analog signals and convert them into digital infomation
 E.g., keyboard, sensors, microphone
 Memory stores information
@@ -35,7 +35,7 @@ E.g., using the 'map' binary numbers a screen turns pixels on or off to represen
 There are lots of types of inputs and outputs that let computers interact with the world
 Computers have lots of memory and often multiple processors to help process the information quickly
 
-###Hardware and Software
+### Hardware and Software
 Hardware includes the circuits, wires, speakers, screen
 Software is the programs that run on the computer
 The CPU controls the other parts of the computer
