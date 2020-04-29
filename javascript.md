@@ -5,13 +5,13 @@
 ### Scripts
 JavaScript makes web pages interactive by manipulating content in the browser.
 
-Access - the content of page
+**Access** - the content of page
 
-Modify - the content of page
+**Modify** - the content of page
 
-Program - execute instructions on information
+**Program** - execute instructions on information
 
-React - to events triggered
+**React** - to events triggered
 
 A script is a series of instructions created to achieve a goal. Scripts are usually interpreted (not explicitly compiled) though there are exceptions, e.g., V8. JavaScript is a scripting language.
 
@@ -22,9 +22,11 @@ An expression evaluates into a single value. E.g., var total = balance + newSale
 
 Expressions use operators. 
 
-Arithmetic operators include +, - , *, % (modulus) E.g., var leftOverEggs = eggs % 12;
+Arithmetic operators include +, - , *, % (modulus)
+E.g., var leftOverEggs = eggs % 12;
 
-The string operator + joins two strings together E.g., var greeting = salutation + lastName;
+The string operator + joins two strings together
+E.g., var greeting = salutation + lastName;
 
 ### Functions
 A function is a set of commands that work together to perform a task.
