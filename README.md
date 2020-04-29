@@ -23,3 +23,5 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 [Design (Style) Web Pages with CSS](css)
 
 [Dynamic Web Pages with JavaScript](dynamic)
+
+[How Computers Work](computers)
