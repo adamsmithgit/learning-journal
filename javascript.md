@@ -17,6 +17,9 @@ A script is a series of instructions created to achieve a goal. Scripts are usua
 
 Writing a script often begin with defining the goal, breaking it down into parts or tasks, and writing code (steps) to perform those tasks. Flowcharts provide a way to visualize the steps and how information flows.
 
+For example, on my 'Band' website the script:
+**Reacts** to the page loading and **Accesses** the show date element content on the page the using a **Program** to compare the show date with the current date, then dependent on the result it **Modifies** the status of the 'Purchase Tickets' button on the page (disabling it if the show date has passed).
+
 ### Expressions and Operators
 An expression evaluates into a single value. E.g., var total = balance + newSales;
 
