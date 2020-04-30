@@ -38,7 +38,6 @@ Functions are reusable.
 
 Some functions require or can take one or more inputs (called parameters).
 
-E.g.,
 ```
 function total(prevBalance, salesToday) {
     return prevBalance + salesToday;

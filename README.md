@@ -27,3 +27,5 @@ I'm excited to be joining the class as I love to learn new skills. I have been f
 [How Computers Work](computers)
 
 [Programming with JavaScript](javascript)
+
+[Operators and Loops](loops)
