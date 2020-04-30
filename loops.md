@@ -14,13 +14,13 @@ Comparison operators include:
 
 !== not strictly equal to
 
->, <, >=, and <=
+\>, <, >=, and <=
 
 Logical operators include: 
 
 &&  and
 
-||  or
+\|\|  or
 
 !   not
 
@@ -48,3 +48,4 @@ do {
     console.log(i);
     i++;
 } while (i<5);
+```
